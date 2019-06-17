@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Volunteam</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="password_error">Please enter valid password</string>
+    <string name="email_error">Please enter a valid email</string>
+    <string name="login_fail">Email and password don\'t match!</string>
+    <string name="email_prompt">email</string>
+    <string name="password_prompt">password</string>
+    <string name="email_registration_error">Please enter a valid email</string>
+    <string name="event_error">That name has been taken!</string>
+    <string name="banner_desc">Image banner</string>
+    <string name="swipe_to_login">Swipe to login</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="s_i_g_n_i_n">SIGN IN</string>
+    <string name="don_t_have_an_account">Don\'t have an account? </string>
+    <string name="sign_up"> Sign Up</string>
+    <string name="password">PASSWORD</string>
+    <string name="username">USERNAME</string>
+    <string name="sign_in"> Sign In</string>
+    <string name="do_you_have_an_account">Do you have an account? </string>
+    <string name="username_small">Username</string>
+    <string name="email">Email</string>
+    <string name="password_small">Password</string>
+    <string name="re_type_password">Re-type Password</string>
+    <string name="registration">Registration</string>
+    <string name="register_big">REGISTER</string>
+    <string name="organizer">Organizer</string>
+    <string name="volunteer">Volunteer</string>
+    <string name="register_as">Register as</string>
+    <string name="full_name">Full Name</string>
+    <string name="title_activity_organizer">OrganizerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Volunteam</string>
+    <string name="nav_header_subtitle">com.BH44IT.volunteam</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_volunteer">VolunteerActivity</string>
+    <string name="RegistrationActivity">RegistrationActivity</string>
+    <string name="home">Home</string>
+    <string name="near_by_events">Near by events</string>
+    <string name="event_list">Event list</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="volunteers">Volunteers</string>
+    <string name="events">Events</string>
+    <string name="create_event">Create Event</string>
+    <string name="google_maps_key">AIzaSyCfcu7II4z5vUToVwdcZ1mHQMZ92xESisM</string>
+    <string name="title_activity_events_near_by">Map</string>
+    <string name="step1">Step 1 of 4</string>
+    <string name="step2">Step 2 of 4</string>
+    <string name="step3">Step 3 of 4</string>
+    <string name="step4">Step 4 of 4</string>
+    <string name="step_of">Step %1$d of %2$d</string>
+    <string name="back">BACK</string>
+    <string name="next">NEXT</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="email_large">EMAIL</string>
+
+    <string name="type_prompt">Choose type of event</string>
+
+    <string-array name="type_arrays">
+        <item>Wedding</item>
+        <item>Conference</item>
+        <item>Birthday</item>
+        <item>Graduation</item>
+        <item>Party</item>
+        <item>Family Fun Day</item>
+        <item>Corporate</item>
+        <item>Family</item>
+        <item>Other</item>
+    </string-array>
+
+    <string name="title_activity_event_map">Map</string>
+    <string name="upload">upload</string>
+    <string name="create_event_button">create event</string>
+    <string name="open_map">open map</string>
+    <string name="enter_address_city_or_zip_code">Enter address, city or zip code</string>
+    <string name="review_user">Review User</string>
+</resources>

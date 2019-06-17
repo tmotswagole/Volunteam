@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_vol_home"
+            android:icon="@drawable/home"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/nav_vol_near_by_list"
+            android:icon="@drawable/location_users"
+            android:title="@string/near_by_events" />
+        <item
+            android:id="@+id/nav_vol_event_list"
+            android:icon="@drawable/list"
+            android:title="@string/event_list" />
+        <item
+            android:id="@+id/nav_vol_users"
+            android:icon="@drawable/ic_users"
+            android:title="@string/review_user" />
+        <!-- <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Tools" /> -->
+    </group>
+
+    <item android:title="@string/profile">
+        <menu>
+            <item
+                android:id="@+id/nav_vol_profile"
+                android:icon="@drawable/profile"
+                android:title="@string/profile"
+                android:visible="false" />
+            <item
+                android:id="@+id/nav_vol_logout"
+                android:icon="@drawable/logout"
+                android:title="@string/logout" />
+        </menu>
+    </item>
+
+</menu>
